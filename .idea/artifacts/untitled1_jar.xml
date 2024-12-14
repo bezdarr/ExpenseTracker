@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled1_jar</output-path>
+    <root id="archive" name="untitled1.jar">
+      <element id="module-output" name="untitled1.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml-lite/5.2.3/db113c8e9051b0ff967f4911fa20336c8325a7c5/poi-ooxml-lite-5.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.5/350837836014091df30d45dd67c89122ad385439/javafx-graphics-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.5/7df31cb4c6fc509ceb28efa26bafe5436fb84653/javafx-fxml-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/21.0.5/dd93d33052d0d5e0256cf3658fc6a2e2755d1f9b/javafx-fxml-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.5/fba5769f62c2b503924b4f131adeaf818c403f4e/javafx-controls-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/21.0.5/b0ec9e085b2e0196278905388e865119263736df/javafx-controls-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/5.1.1/48a369df0eccb509d46203104e4df9cb00f0f68b/xmlbeans-5.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.20.0/1fe6082e660daf07c689a89c94dc0f49c26b44bb/log4j-api-2.20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.5/c9c1cf2d52bc7dd7b20dab3157963f8aaaf38e47/javafx-base-21.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/5.2.3/2fb22ae74ad5aea6af1a9c64b9542f2ccf348604/poi-5.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/21.0.5/fff3d317e9e5ef3eda055bf3624720b5c5f4ed49/javafx-graphics-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/21.0.5/be70cdbaba4dd1ff78a570eada78affbbff0a45b/javafx-base-21.0.5-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/5.2.3/2efd11c940adb18c03eb9ce7ad88fc40ee6a196/poi-ooxml-5.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.20.0/eb2a9a47b1396e00b5eee1264296729a70565cc0/log4j-core-2.20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/SparseBitSet/1.2/8467c813d442837fcaeddbc42cf5c5359fab4933/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/62ebe7544cb7164d87e0637a2a6a2bdc981395e8/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.07/863654849995f9d4f0ed2ed1a3870da3a108473c/curvesapi-1.07.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
