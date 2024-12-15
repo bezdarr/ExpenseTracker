@@ -45,18 +45,6 @@ public class ExpenseManager {
                 .sum();
     }
 
-    /**
-     * Возвращает общую сумму расходов для указанной категории.
-     *
-     * @param category категория для расчета суммы.
-     * @return сумма расходов по указанной категории.
-     */
-    public double getCategoryExpenses(String category) {
-        return expensesByCategory.getOrDefault(category, new ArrayList<>()).stream()
-                .mapToDouble(e -> e.getAmount())
-                .sum();
-    }
-
 
     /**
      * Экспортирует список расходов в указанный файл Excel.
