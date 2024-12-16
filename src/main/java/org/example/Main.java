@@ -22,8 +22,8 @@ import org.apache.logging.log4j.Logger;
 /**
  * Главный класс приложения, отвечающий за отображение пользовательского интерфейса.
  */
-public class Main extends Application {
-    private static final Logger logger = LogManager.getLogger(Main.class);
+public class Tracker extends Application {
+    private static final Logger logger = LogManager.getLogger(Tracker.class);
     private ExpenseManager expenseManager;
     private TextArea outputArea;
 
